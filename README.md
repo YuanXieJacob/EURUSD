@@ -12,5 +12,6 @@ using their historical data feed.
 
 ## Working on:
 
-
+* LSTM model prediction;
+* shorten prediction period;
 
