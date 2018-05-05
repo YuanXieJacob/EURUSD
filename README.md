@@ -8,7 +8,7 @@ using their historical data feed.
 
 * lots of price-based features added;
 * two version of train/test split used, random and time-based;
-* Used GDBT to for benchmark prediction, got accuracy score around 0.66;
+* Used GDBT to for benchmark prediction, got accuracy score of 0.6690;
 
 ## Working on:
 
