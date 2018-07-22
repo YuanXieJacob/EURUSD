@@ -8,10 +8,11 @@ using their historical data feed.
 
 * lots of price-based features added;
 * two version of train/test split used, random and time-based;
-* Used GDBT to for benchmark prediction, got accuracy score of 0.6690;
+* Used GDBT for benchmark prediction, got accuracy score of 0.6690;
 
 ## Working on:
 
-* LSTM model prediction;
+* Deep Neural Network model prediction;
+* CNN style chart reading bot;
 * shorten prediction period;
 
