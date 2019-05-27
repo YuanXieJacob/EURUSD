@@ -16,3 +16,5 @@ using their historical data feed.
 * CNN style chart reading bot;
 * shorten prediction period;
 
+## Test
+112
